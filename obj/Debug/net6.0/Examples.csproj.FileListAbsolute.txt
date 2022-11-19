@@ -1,0 +1,15 @@
+/home/olga/Документы/OpenFolder/Examples/bin/Debug/net6.0/Examples
+/home/olga/Документы/OpenFolder/Examples/bin/Debug/net6.0/Examples.deps.json
+/home/olga/Документы/OpenFolder/Examples/bin/Debug/net6.0/Examples.runtimeconfig.json
+/home/olga/Документы/OpenFolder/Examples/bin/Debug/net6.0/Examples.dll
+/home/olga/Документы/OpenFolder/Examples/bin/Debug/net6.0/ref/Examples.dll
+/home/olga/Документы/OpenFolder/Examples/bin/Debug/net6.0/Examples.pdb
+/home/olga/Документы/OpenFolder/Examples/obj/Debug/net6.0/Examples.csproj.AssemblyReference.cache
+/home/olga/Документы/OpenFolder/Examples/obj/Debug/net6.0/Examples.GeneratedMSBuildEditorConfig.editorconfig
+/home/olga/Документы/OpenFolder/Examples/obj/Debug/net6.0/Examples.AssemblyInfoInputs.cache
+/home/olga/Документы/OpenFolder/Examples/obj/Debug/net6.0/Examples.AssemblyInfo.cs
+/home/olga/Документы/OpenFolder/Examples/obj/Debug/net6.0/Examples.csproj.CoreCompileInputs.cache
+/home/olga/Документы/OpenFolder/Examples/obj/Debug/net6.0/Examples.dll
+/home/olga/Документы/OpenFolder/Examples/obj/Debug/net6.0/ref/Examples.dll
+/home/olga/Документы/OpenFolder/Examples/obj/Debug/net6.0/Examples.pdb
+/home/olga/Документы/OpenFolder/Examples/obj/Debug/net6.0/Examples.genruntimeconfig.cache
